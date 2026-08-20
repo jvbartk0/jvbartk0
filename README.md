@@ -50,17 +50,11 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 
 ---
-
 ## 📌 Featured Projects
 
-<div align="center">
-
 <a href="https://github.com/jvbartk0/associa-o-de-vol-i-de-foz-10869d83">
-  <img src="https://avpfi.vercel.app" />
+  <img src="https://avpfi.vercel.app/..." alt="Associação de Vôlei de Foz" />
 </a>
-
-
-</div>
 
 ---
 
