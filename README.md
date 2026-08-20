@@ -57,13 +57,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" title="GitHub">
 </div>
 
----
-
-## 📌 Featured Projects
-
-<a href="https://github.com/jvbartk0/associa-o-de-vol-i-de-foz-10869d83">
-  <img src="https://avpfi.vercel.app/..." alt="Associação de Vôlei de Foz" width="600">
-</a>
 
 ---
 
