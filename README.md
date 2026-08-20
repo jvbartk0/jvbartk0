@@ -1,20 +1,13 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=650&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9;%E2%8A%B9+Jo%C3%A3o+Vitor+Bartko+%E2%8A%B9;%E2%8A%B9+Software+Developer+%E2%8A%B9" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=650&lines=Web+Developer;Software+Developer;Web+Designer;Graphic+Designer;Photographer" alt="Typing SVG">
 </a>
 
+<img width="498" height="252" alt="Image" src="https://github.com/user-attachments/assets/7bfc1a44-af67-4590-8d27-2a3acaf9ef67" />
 </div>
 
 <br />
-
-<div align="center">
-  <h1>Olá 👋</h1>
-  <p>Desenvolvimento de software, automação e ideias que saem do papel.</p>
-
-  <img src="https://img.shields.io/badge/Desenvolvedor-em%20formação-6C63FF?style=for-the-badge" alt="Desenvolvedor em formação" />
-  <img src="https://img.shields.io/badge/Em%20constante-aprendizado-181717?style=for-the-badge" alt="Em constante aprendizado" />
-</div>
 
 ---
 
@@ -32,29 +25,53 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas na UNIPAR*
 
 ### Linguagens
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-</p>
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55" height="55" title="Java" alt="Java">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" height="55" title="HTML5" alt="HTML5">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" height="55" title="CSS3" alt="CSS3">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55" title="JavaScript" alt="JavaScript">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="55" height="55" title="Kotlin" alt="Kotlin">
+
+</div>
+
+<br>
 
 ### Bancos de dados
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" height="55" title="MySQL" alt="MySQL">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" height="55" title="PostgreSQL" alt="PostgreSQL">
+
+</div>
+
+<br>
 
 ### Ferramentas
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-</p>
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" title="Git" alt="Git">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55" title="GitHub" alt="GitHub">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55" title="Visual Studio Code" alt="Visual Studio Code">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="55" height="55" title="Figma" alt="Figma">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="55" height="55" title="Adobe Photoshop" alt="Adobe Photoshop">
+
+</div>
+
+<br>
+
+---
 
 ## Atualmente estudando
 
