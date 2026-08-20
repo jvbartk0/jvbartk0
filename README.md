@@ -1,11 +1,11 @@
-<div align="left">
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Developer;Web+Designer;Graphic+Designer;Photographer" alt="Typing SVG">
 
 </div>
 
 <br>
-
+<div align="left">
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
 <div style="width: 60%;">
