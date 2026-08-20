@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Developer;Web+Designer;Graphic+Designer;Photographer" alt="Typing SVG">
 
@@ -6,7 +6,7 @@
 
 <br>
 
-<div align="center">
+
 
 ### Olá! 👋
 
@@ -29,7 +29,7 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 ## 🛠️ My Stack
 
-<div align="center">
+
 
 ### Languages
 
@@ -60,7 +60,7 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 ## 🤝 Let's Connect
 
-<div align="center">
+
 
 <a href="https://github.com/jvbartk0">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -70,7 +70,7 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 <br>
 
-<div align="center">
+
 
 **Thanks for visiting my profile! 🚀**
 
