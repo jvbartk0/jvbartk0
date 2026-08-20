@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Developer;Web+Designer;Graphic+Designer;Photographer" alt="Typing SVG">
 
