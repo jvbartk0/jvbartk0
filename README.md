@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Jo%C3%A3o+Vitor+Bartko;Web+Developer;Web+Designer;Graphic+Designer;Photographer" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Developer;Web+Designer;Graphic+Designer;Photographer" alt="Typing SVG">
 
 </div>
 
@@ -10,13 +10,16 @@
 
 ### Olá! 👋
 
-**19 anos · ADS na UNIPAR**
+**19 anos · ADS UNIPAR**
 
-Sou apaixonado por tecnologia e acredito que ela pode ser usada para
-**resolver problemas, facilitar processos e transformar ideias em realidade.**
+Sou apaixonado por tecnologia e acredito que ela pode ser usada para **resolver problemas, facilitar processos e transformar ideias em realidade**.
 
-Sou uma pessoa criativa e gosto de **criar coisas**, experimentar novas ideias
-e aprender através de projetos.
+Sou uma pessoa criativa e gosto de **criar coisas, experimentar novas ideias e aprender na prática**, principalmente através de projetos e desafios que me permitem colocar o conhecimento em ação.
+
+Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas na UNIPAR** e venho desenvolvendo minhas habilidades em **Java, HTML, CSS, JavaScript, SQL, PostgreSQL e Kotlin**.
+
+Tenho interesse principalmente em **desenvolvimento de software, automação, bancos de dados, tecnologia e hardware**. Gosto de entender como as coisas funcionam, explorar novas tecnologias e, acima de tudo, **usar o que aprendo para construir soluções que sejam úteis de verdade**.
+
 
 </div>
 
@@ -45,17 +48,6 @@ e aprender através de projetos.
 
 </div>
 
----
-
-## 🚀 What I Like
-
-<div align="center">
-
-| 💡 Criar | 🧩 Resolver | 🎨 Projetar | 💻 Desenvolver |
-|:---:|:---:|:---:|:---:|
-| Ideias e projetos | Problemas reais | Interfaces e experiências | Soluções com tecnologia |
-
-</div>
 
 ---
 
@@ -63,13 +55,10 @@ e aprender através de projetos.
 
 <div align="center">
 
-<a href="https://github.com/jvbartk0/basefin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvbartk0&repo=basefin&theme=dark&hide_border=true" />
+<a href="https://github.com/jvbartk0/associa-o-de-vol-i-de-foz-10869d83">
+  <img src="https://avpfi.vercel.app" />
 </a>
 
-<a href="https://github.com/jvbartk0/controle-financas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jvbartk0&repo=controle-financas&theme=dark&hide_border=true" />
-</a>
 
 </div>
 
