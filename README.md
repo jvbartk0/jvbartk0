@@ -7,8 +7,13 @@
 <br>
 
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 ### Olá! 👋
+
+**19 anos · ADS UNIPAR**
 
 Sou apaixonado por tecnologia e acredito que ela pode ser usada para **resolver problemas, facilitar processos e transformar ideias em realidade**.
 
@@ -18,8 +23,15 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas na UNIPAR*
 
 Tenho interesse principalmente em **desenvolvimento de software, automação, bancos de dados, tecnologia e hardware**. Gosto de entender como as coisas funcionam, explorar novas tecnologias e, acima de tudo, **usar o que aprendo para construir soluções que sejam úteis de verdade**.
 
-</div>
+    </td>
 
+    <td width="40%" valign="middle" align="center">
+
+      <!-- VÍDEO AQUI -->
+
+    </td>
+  </tr>
+</table>
 <br>
 
 ---
