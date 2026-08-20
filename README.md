@@ -25,7 +25,7 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 </div>
 
 <div style="width: 35%;">
-<img src="./assets/1.gif" width="300" alt="GIF">
+<img src="https://github.com/jvbartk0/jvbartk0/raw/refs/heads/main/assets/1.gif" width="300" alt="GIF">
 
 </div>
 
