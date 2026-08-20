@@ -26,7 +26,7 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 <div style="width: 35%;">
 
-<!-- 🎥 VÍDEO / ANIMAÇÃO AQUI -->
+<img src="./assets/1.gif" width="300" alt="GIF">
 
 </div>
 
