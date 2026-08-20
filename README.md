@@ -10,8 +10,6 @@
 
 ### Olá! 👋
 
-**19 anos · ADS UNIPAR**
-
 Sou apaixonado por tecnologia e acredito que ela pode ser usada para **resolver problemas, facilitar processos e transformar ideias em realidade**.
 
 Sou uma pessoa criativa e gosto de **criar coisas, experimentar novas ideias e aprender na prática**, principalmente através de projetos e desafios que me permitem colocar o conhecimento em ação.
@@ -19,7 +17,6 @@ Sou uma pessoa criativa e gosto de **criar coisas, experimentar novas ideias e a
 Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas na UNIPAR** e venho desenvolvendo minhas habilidades em **Java, HTML, CSS, JavaScript, SQL, PostgreSQL e Kotlin**.
 
 Tenho interesse principalmente em **desenvolvimento de software, automação, bancos de dados, tecnologia e hardware**. Gosto de entender como as coisas funcionam, explorar novas tecnologias e, acima de tudo, **usar o que aprendo para construir soluções que sejam úteis de verdade**.
-
 
 </div>
 
