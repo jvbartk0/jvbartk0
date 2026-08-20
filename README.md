@@ -1,20 +1,10 @@
-<div align="center">
 
-<img src="./assets/1.gif" width="400" alt="Animation">
-
-<br><br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=650&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9;%E2%8A%B9+Software+Developer+%E2%8A%B9;%E2%8A%B9+Web+Developer+%E2%8A%B9;%E2%8A%B9+Creative+Developer+%E2%8A%B9" alt="Typing SVG">
-</a>
-
-</div>
 
 <br>
 
 ### Olá! 👋
 
-**19 anos · ADS UNIPAR**
+
 
 Sou apaixonado por tecnologia e acredito que ela pode ser usada para **resolver problemas, facilitar processos e transformar ideias em realidade**.
 
