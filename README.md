@@ -25,7 +25,6 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 </div>
 
 <div style="width: 35%;">
-
 <img src="./assets/1.gif" width="300" alt="GIF">
 
 </div>
