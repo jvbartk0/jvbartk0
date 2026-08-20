@@ -48,6 +48,9 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 
 
 ---
+
+
+
 ## 📌 Featured Projects
 
 <a href="https://github.com/jvbartk0/associa-o-de-vol-i-de-foz-10869d83">
@@ -55,6 +58,8 @@ Tenho interesse principalmente em **desenvolvimento de software, automação, ba
 </a>
 
 ---
+
+
 
 ## 🤝 Let's Connect
 
