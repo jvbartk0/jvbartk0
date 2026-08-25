@@ -45,7 +45,7 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas na UNIPAR*
 
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" height="55" title="MySQL" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" height="55" title="MySQL" alt="MySQL">
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" height="55" title="PostgreSQL" alt="PostgreSQL">
 
